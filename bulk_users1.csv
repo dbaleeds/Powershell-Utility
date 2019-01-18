@@ -1,0 +1,2 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
+Joe,L,Bloggs,Jbloggs,Jbloggs@domain.com,123 Broadway,Leeds,LS12AA,W Yorks,United Kingdom,IT,53GWEG23t,0113 123456,Developer,Enterprise,"CN=Users,DC=ad,DC=domain,DC=COM"
